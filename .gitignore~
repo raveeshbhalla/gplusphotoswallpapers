@@ -6,7 +6,7 @@
 *.dex
 
 # Java class files
-Key.java
+Key.class
 *.class
 
 # generated files
